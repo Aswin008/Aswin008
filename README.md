@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a prediction problem for a retail companies dataset!**
+ 🔭 I’m currently working on **a inventory prediction problem for a big retail company!**
  
  🌱 I’m currently learning **AWS, Observational dataset testing, Unsupervised Machine Learning**
 
- 💬 Ask me about **Regression, Statistics, A/B Testing, MongoDB... or anything related to data science!**
+ 💬 Ask me about **Regression, Statistics, A/B Testing, Database Management... or anything related to data science!**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions Across all my github accounts this year! 🐍</h2>
+  <h2>🐍 My Contributions Across all my github accounts in the last two years! 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
